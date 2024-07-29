@@ -10,8 +10,7 @@ Bu proje, temel matematiksel işlemleri gerçekleştiren bir hesap makinesi uygu
 - [Özellikler](#özellikler)
 - [Kullanım](#kullanım)
 - [Kurulum](#kurulum)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
+
 
 ## Özellikler
 
