@@ -46,10 +46,4 @@ Bu proje, temel matematiksel işlemleri gerçekleştiren bir hesap makinesi uygu
     java -cp bin com.calculator.CalculatorMain
     ```
 
-## Katkıda Bulunma
 
-Katkılarınızı memnuniyetle karşılarız! Hata raporları, yeni özellik önerileri veya iyileştirmeler için lütfen bir [issue](https://github.com/kullanici_adiniz/hesap-makinesi/issues) oluşturun veya doğrudan katkıda bulunun.
-
-## Lisans
-
-Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanmıştır. Daha fazla bilgi için [Lisans Dosyasına](LICENSE) bakabilirsiniz.
