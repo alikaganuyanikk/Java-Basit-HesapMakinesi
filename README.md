@@ -5,12 +5,6 @@ Bu proje, temel matematiksel işlemleri gerçekleştiren bir hesap makinesi uygu
 - `Calculator`: Matematiksel işlemleri gerçekleştiren sınıf.
 - `CalculatorMain`: Kullanıcı etkileşimi ve işlem seçimlerini yöneten ana sınıf.
 
-## İçindekiler
-
-- [Özellikler](#özellikler)
-- [Kullanım](#kullanım)
-
-
 
 ## Özellikler
 
